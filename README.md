@@ -13,6 +13,7 @@ Have you ever wished you could have a truly great and memorable Burst Address? N
 3. Enter the following command `python burst-vanity-generator.py -m <YOUR DESIRED NAME>`
 
 example: `python burst-vanity-generator.py -m USA`
+eventually returns `BURST-USAB-U7JP-V2ZH-5PKKP`
 
 ## How it Works
 The **Burst Vanity Address Generator** is basically a brute force address generator, it will generate 1000's of addresses from random strings until it finds one that matches your input. Then it will write the passphrase for the address to a txt file that you can use to sign into the Burst Wallet. Depending on the number of cores in your computer this can take some time.
