@@ -1,0 +1,9 @@
+*.pyc
+
+# virtual env
+.venv
+
+# vs code
+.vscode/
+
+burst-vanity-password.txt
